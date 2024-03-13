@@ -1,0 +1,9 @@
+{
+    "fps": 30,
+    "width": 800,
+    "height": 600,
+    "title": "Conway's Game of Life",
+    "bg_col": "000000",
+    "fg_col": "FFFFFF",
+    "cell_size": 2
+}
